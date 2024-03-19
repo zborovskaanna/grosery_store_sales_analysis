@@ -14,6 +14,8 @@ The project includes:
 ### Data  
 The data file is placed on Google Drive at this link: [Grocery DB](https://docs.google.com/spreadsheets/d/1dvopNDn9ZzLx6JErkN69FrjlSEa5Mhks/edit?usp=sharing&ouid=116436996230785511286&rtpof=true&sd=true)  
 
+![grocery_dashboard](https://github.com/zborovskaanna/grosery_store_sales_analysis/assets/104727963/342aa4d5-9e05-4b9f-9fdb-108138c1e4e0)
+
 ### Tech Stack  
 
 Python  
